@@ -9,7 +9,8 @@ apresentar primeiro a unidade e, depois, a dezena e a centena.
 
 
  * O sistema funcionará da seguinte forma:
- * 	- O programa pede para o usuário 
+ * 	- O programa pede para o usuário informar um número qualquer maior ou igual a 0 e menor que 1000.
+ * 	- Em seguida, o programa separa o número em unidade, dezena e centana, e depois imprime o resultado da inversão na tela.
  */
 
 programa
@@ -56,7 +57,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 2035; 
+ * @POSICAO-CURSOR = 557; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
