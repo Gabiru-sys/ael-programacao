@@ -42,8 +42,6 @@ programa
 
 		/* Imprime o volume da esfera. */
 		escreva("O volume da esfera com raio ", raio, " é de: ", volume)
-		
-		
 	}
 }
 
@@ -52,7 +50,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 498; 
+ * @POSICAO-CURSOR = 1754; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
